@@ -28,7 +28,7 @@ First, clone the repository to your local machine:
 
 
 git clone https://github.com/isha1206/Dynamic-Pricing-Discount-System.git
-cd Dynamic Pricing
+
 
 ### 2. Create a Virtual Environment
 Create and activate a virtual environment:
